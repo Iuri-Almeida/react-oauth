@@ -25,7 +25,7 @@
 
 Estou me desafiando a desenvolver a cada dia um projeto com qualquer tipo de funcionalidade. Esse é o Desafio de número 11 e espero que venham muitos pela frente 😁 🚀 💜
 
-Esse projeto tem a funcionalidade de <b>OAuth</b>. Aqui, o usuário pode logar utilizando sua conta na [Auth0](https://auth0.com/).
+Esse projeto tem a funcionalidade de <b>autenticação</b>. Aqui, o usuário pode logar utilizando sua conta na [Auth0](https://auth0.com/).
 
 <b>Obs.: </b>[Link](https://www.youtube.com/watch?v=MqczHS3Z2bc) do vídeo de onde estudei.
 
